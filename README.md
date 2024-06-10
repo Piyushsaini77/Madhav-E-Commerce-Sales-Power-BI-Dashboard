@@ -6,6 +6,7 @@ Objective 🛑 :-
 Owner of Madhav store wants us to help them create a dashboard to track and analyze their online sales across India
 
 The useful insights 👁
+
 🌐 Data-driven decisions: Giving the business the ability to make wise decisions.
 
 😊 Improved sales: Highlighting performance areas in need of improvement.
