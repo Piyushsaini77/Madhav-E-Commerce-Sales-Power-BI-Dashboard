@@ -7,9 +7,12 @@ Owner of Madhav store wants us to help them create a dashboard to track and anal
 
 The useful insights 👁
 🌐 Data-driven decisions: Giving the business the ability to make wise decisions.
+
 😊 Improved sales: Highlighting performance areas in need of improvement.
+
 📉 Stock level control is essential for effective inventory management.
 Enhancing the client experience by customizing offerings to suit individual tastes.
+
 🤑Higher revenue: Finding sales possibilities and increasing earnings.
 
 Project Learnings:-
